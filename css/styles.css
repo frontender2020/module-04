@@ -167,14 +167,11 @@ article {
     float: left;
     width: 345px;
     margin-right: 30px;
+    margin-bottom: 80px;
 }
 
 article:last-child {
     margin-right: 0;
-}
-
-.news-image {
-    margin-bottom: 5px;
 }
 
 h3.news-article-heading {
@@ -199,7 +196,7 @@ p.news-article-text {
     color: #555252;
     font-family: "Open Sans";
     line-height: 26px;
-    margin-bottom: 16px;
+    margin-bottom: 6px;
     letter-spacing: -0.28px;
 }
 
