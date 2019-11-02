@@ -190,22 +190,24 @@ p.news-article-text {
     letter-spacing: -0.28px;
 }
 
-.news-btn {
+a.news-btn {
     display: block;
     width: 160px;
-    height: 51px;
+    height: 50px;
     background-color: #4ec6ab;
     color: #ffffff;
     font-family: "Open Sans";
     font-size: 16px;
     font-weight: 300;
-    line-height: 26px;
+    line-height: 50px;
     border: 1px solid transparent;
     border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
     cursor: pointer;
 }
 
-.news-btn:hover {
+a.news-btn:hover {
     background-color: #ffffff;
     color: #4ec6ab;
     border: 1px solid #4ec6ab;
